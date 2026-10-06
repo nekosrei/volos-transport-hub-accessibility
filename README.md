@@ -1,5 +1,5 @@
 # Walking accessibility of a proposed transport hub in Volos, Greece
-
+![Accessibility map](accessibility_map.png)
 ## Question
 How accessible on foot is a proposed intermodal transport hub (urban/intercity bus stations, Sekeri St.) from the railway station, the passenger pier and key points of interest, and how much of the street network falls within the 500 m walking threshold used by SDG indicator 11.2.1?
 
